@@ -1,0 +1,68 @@
+﻿
+
+
+.cen { text-align: center; }
+.izda { text-align: left; }
+.dcha { text-align: right; }
+.jus { text-align: justify; }
+
+.top { vertical-align: top; }
+.mid { vertical-align: middle; }
+.bot { vertical-align: bottom; }
+
+.col{
+    background-color: #f0ad4e;
+}
+
+
+#head1{
+    background-color: #f7f7f7;
+    color: #f0ad4e;
+}
+#nos{
+    color:#31b0d5;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.col{
+    background-color: #f0ad4e;
+}
+
+.logo{
+    width:80px;
+    position: relative;
+    float: right;
+    padding: 10px;
+
+
+}
+
+
+            #head1{
+                background-color: #f7f7f7;
+                color: #f0ad4e;
+            }
+            .imag{
+                width:100%;
+                
+               
+            }
+
+            .col{
+                background-color: #f0ad4e;
+            }
+            .logo{
+                width:80px;
+                position: relative;
+                float: right;
+                padding: 10px;
+
+
+            }
+            .parraf{
+                padding: 50px;
+                color: #ec971f;
+            }
+
+
